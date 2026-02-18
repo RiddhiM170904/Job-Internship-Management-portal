@@ -1,6 +1,6 @@
 # 🚀 Job & Internship Management Portal
 
-### Completed project under internship
+### Completed this project under internship
 
 A full-stack web application for managing job and internship applications with role-based access control, built using the MERN stack.
 
